@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: homepage
 title: Rationalist East Coast Megameetup 2017
 ---
 # Rationalist East Coast Megameetup 2017
