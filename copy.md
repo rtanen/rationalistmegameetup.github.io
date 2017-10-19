@@ -1,0 +1,89 @@
+**TL;DR: We're putting together a weekend-long gathering of rationalist
+community people in NYC for Solstice weekend. If you want in, register below.**
+
+As you might already know, <a
+href="https://www.kickstarter.com/projects/1939801081/1947831394?ref=372512&token=a34aafd9"
+target="_blank">the eighth annual Secular Solstice celebration</a> is
+happening this year in New York City on December 9. This means we'll have a
+whole bunch of people from the rationalist community all in town for the same
+weekend.
+
+It'd be awesome if we could spend that weekend hanging out together, learning
+from each other and doing ingroup things. Since many of us will need a place to
+stay anyway, we can rent a big house on Airbnb together and use that as the
+central gathering place, like at Highgarden in 2014. This way we'll have more
+flexibility to do things than if we all have to wander around looking for a
+public space.
+
+Besides Solstice and the afterparty, the big activity will be an unconference.
+We'll also have a ritual lab.
+
+This is all going to cost up to $100 per person for the Airbnb rental, plus $25
+per person for food and other expenses. (The exact Airbnb location hasn't been
+determined yet, because we don't know how many participants there'll be, but
+$100 per person will be the upper limit on price.)
+
+To gauge interest, registration is open from now until November 9. You'll be
+asked to authorize a PayPal payment of $125. It works like Kickstarter; you
+won't be charged until November 9, and only if there's enough interest to move
+forward. You'll also only be charged your share of what the rental actually ends
+up costing, plus the additional $25. For this, you'll get to sleep in the Airbnb
+house Friday through Sunday nights (or whatever subset of those you can make
+it), have three meals with us, and hang out with a bunch of nice/cool/awesome
+ingroup people throughout the weekend. (Solstice tickets are not part of this
+deal; those are sold separately through the Solstice Kickstarter.)
+
+**If this sounds like a good thing that you want to see happen and be part of,
+then register before November 9!**
+
+If you want to read the full plan with all the details as best as they've been
+figured out so far, [it's here](plan).
+
+Please don't hesitate to <a
+href="https://www.google.com/recaptcha/mailhide/d?k=01qdWKw6_LlBVIIDG5BDFfpQ==&amp;c=xztUmNnJVVzSvRdD-lgkNY7ywQ30Iis67nEKZx67W-0="
+onclick="window.open('https://www.google.com/recaptcha/mailhide/d?k\x3d01qdWKw6_LlBVIIDG5BDFfpQ\x3d\x3d\x26c\x3dxztUmNnJVVzSvRdD-lgkNY7ywQ30Iis67nEKZx67W-0\x3d', '', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=300'); return false;"
+>contact the organizer</a> if you have any questions, if the price is an issue
+for you, or if you want to make any other kind of individual arrangement.
+
+## Registration
+
+<form action="https://www.sandbox.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cert_id" value="G5742VYSFQWMW">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="item_name" value="East Coast Rationalist Megameetup 2017 Registration">
+<input type="hidden" name="amount" value="125.00">
+<input type="hidden" name="on0" value="Preferred name">
+<input type="hidden" name="on1" value="Do you have any dietary restrictions?">
+<input type="hidden" name="on2" value="Do you need any disability accommodations?">
+<input type="hidden" name="on3" value="Would you be interested in cooking anything?">
+<input type="hidden" name="on4" value="Would you be interested in presenting at the unconference?">
+<input type="hidden" name="on5" value="Would you be interested in running a scheduled activity?">
+<input type="hidden" name="on6" value="Do you have any other notes or requests?">
+<input type="hidden" name="currency_code" value="USD">
+<input type="hidden" name="business" value="94MRV3LN85A8A">
+<input type="hidden" name="paymentaction" value="authorization">
+<input type="hidden" name="no_shipping" value="1">
+<input type="hidden" name="return" value="https://rationalistmegameetup.com/thanks">
+<input type="hidden" name="cancel_return" value="https://rationalistmegameetup.com/canceled">
+<label>Preferred name
+<p>This will be printed on your name tag. It doesn't have to match your billing
+information.</p>
+<input type="text" name="os0" required maxlength="200"></label>
+<label>Do you have any dietary restrictions?
+<textarea name="os1" maxlength="200"></textarea></label>
+<label>Do you need any disability accommodations?
+<p>In particular, please let us know if sleeping on the floor on a sleeping mat
+doesn't work for you.</p>
+<textarea name="os2" maxlength="200"></textarea></label>
+<label>Would you be interested in cooking anything?
+<p>There will be a kitchen and costs of ingredients can be reimbursed.</p>
+<textarea name="os3" maxlength="200"></textarea></label>
+<label>Would you be interested in presenting at the unconference?
+<p>This can be a lightning talk or a longer half-hour talk.</p>
+<textarea name="os4" maxlength="200"></textarea></label>
+<label>Would you be interested in running a scheduled activity?
+<textarea name="os5" maxlength="200"></textarea></label>
+<label>Do you have any other notes or requests?
+<textarea name="os6" maxlength="200"></textarea></label>
+<input type="submit" value="Authorize Payment via PayPal">
+</form>
