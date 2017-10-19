@@ -1,3 +1,7 @@
+---
+layout: page
+title: Rationalist East Coast Megameetup 2017
+---
 # Rationalist East Coast Megameetup 2017
 
 The Megameetup is still in the planning stages thus far, so we don't have any logistical details to share yet.

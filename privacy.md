@@ -1,3 +1,8 @@
+---
+layout: page
+title: Privacy Policy
+---
+# Privacy Policy
 
 This Privacy Policy governs the manner in which Taymon A. Beal collects, uses, maintains and discloses information collected from users (each, a "User") of the https://rationalistmegameetup.com website ("Site").
 
@@ -21,7 +26,7 @@ We may need your information display content on the Site correctly.
  - To improve customer service.
 Information you provide helps us respond to your customer service requests and support needs more efficiently.
  - To send periodic emails.
-We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. 
+We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests.
 
 ## How we protect your information
 
@@ -29,7 +34,7 @@ We adopt appropriate data collection, storage and processing practices and secur
 
 ## Sharing your personal information
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above. 
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
 
 ## Third party websites
 
