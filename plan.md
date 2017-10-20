@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Master Plan for East Coast Rationalist Megameetup 2017
+title: Master Plan
 ---
 # Master Plan for East Coast Rationalist Megameetup 2017
 
