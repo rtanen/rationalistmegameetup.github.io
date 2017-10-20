@@ -1,0 +1,1 @@
+The images in this folder are cropped and downscaled versions of <https://commons.wikimedia.org/wiki/File:BN3Q09604_candle_light.JPG>. The author of this image is [Devilal](https://commons.wikimedia.org/wiki/User:Devilal), who has licensed it under [the CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/deed.en).
