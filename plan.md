@@ -155,26 +155,26 @@ href="https://developer.paypal.com/docs/classic/paypal-payments-standard/integra
 target="_blank">PayPal’s developer documentation</a> for more details about how
 this works.
 
-On October 27 (one week after this announcement was posted publicly), I’ll
-decide whether the megameetup will go forward, and if so, which Airbnb location
-to rent. It will only go forward if I can find a suitable location for $100 per
-person or less. Once the location has been paid for, I will divide the cost by
-the number of registered participants, then charge each participant’s credit
-card that amount plus $25.
+On October 30 (ten days after this announcement was posted publicly and the same
+day the Solstice Kickstarter ends), I’ll decide whether the megameetup will go
+forward, and if so, which Airbnb location to rent. It will only go forward if I
+can find a suitable location for $100 per person or less. Once the location has
+been paid for, I will divide the cost by the number of registered participants,
+then charge each participant’s credit card that amount plus $25.
 
-After October 27, registration will remain open until, in my personal judgment,
+After October 30, registration will remain open until, in my personal judgment,
 no more people can be accommodated in the location that has been rented. Each
-participant who registers after October 27 will immediately be charged the same
+participant who registers after October 30 will immediately be charged the same
 amount that earlier participants paid (that is, the cost of the rental, divided
-by the number of participants who registered before October 27, plus $25). This
+by the number of participants who registered before October 30, plus $25). This
 money will be put towards non-rental expenses, since the rental will have
 already been paid for.
 
 <p id="refund-policy">Any participant may cancel their registration (and payment
-authorization) before October 27. After October 27, registrations will be
+authorization) before October 30. After October 30, registrations will be
 refundable on request, on a first-come-first-served basis with a waitlist if
 necessary, if and only if the current number of non-refunded registrations is
-equal to or greater than the number of registrations on October 27. (This is
+equal to or greater than the number of registrations on October 30. (This is
 because the rental will have been paid for and I won’t be able to get a partial
 refund on it.) Registrations will be transferable on request at any time.</p>
 
@@ -322,7 +322,7 @@ in the same post announcing the Solstice Kickstarter. We will also post links to
 it in other rationalist online spaces that are likely to contain people
 interested in participating. To avoid annoying people too much, I will stagger
 the posts I make as roughly uniformly as possible in time between October 20 and
-October 27. Platforms where such communities might exist include Facebook,
+October 30. Platforms where such communities might exist include Facebook,
 Tumblr, Reddit, IRC, Discord, and the Slate Star Codex open thread.
 
 ## Risks and Challenges
