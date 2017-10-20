@@ -71,10 +71,11 @@ to rent it. Airbnb seems to be the easiest way to do this.
 If we get 40 people, which has been suggested to me by a previous event
 organizer as a potentially plausible number, then we’ll want a house with a
 double-digit number of rooms. A cursory search has identified
-[a](https://www.airbnb.com/rooms/279857)
-[few](https://www.airbnb.com/rooms/17405172)
-[locations](https://www.airbnb.com/rooms/4227161) that appear to satisfy these
-conditions, at least some of which are also billed as friendly for large events.
+<a href="https://www.airbnb.com/rooms/279857" target="_blank">a</a>
+<a href="https://www.airbnb.com/rooms/17405172" target="_blank">few</a>
+<a href="https://www.airbnb.com/rooms/4227161" target="_blank">locations</a>
+that appear to satisfy these conditions, at least some of which are also billed
+as friendly for large events.
 
 ## Budget and Pricing
 
@@ -149,9 +150,10 @@ Megameetup at rationalistmegameetup.com, they’ll be taken to a PayPal page and
 asked to authorize me to charge their credit card up to $125. I can only use
 this authorization once, and it expires after 29 days if I don’t. (It’s
 technically possible for me to increase the amount up to $143.75; I promise not
-to do this. See [PayPal’s developer
-documentation](https://developer.paypal.com/docs/classic/paypal-payments-standard/integration-guide/authcapture/)
-for more details about how this works.)
+to do this. See <a
+href="https://developer.paypal.com/docs/classic/paypal-payments-standard/integration-guide/authcapture/"
+target="_blank">PayPal’s developer documentation</a> for more details about how
+this works.
 
 On October 27 (one week after this announcement was posted publicly), I’ll
 decide whether the megameetup will go forward, and if so, which Airbnb location
