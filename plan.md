@@ -245,7 +245,10 @@ unstructured socializing.
 A few activities I do intend to run myself. Most importantly, the centerpiece of
 Saturday afternoon will be an unconference, with lightning talks and longer
 twenty-minute talks. These, too, will be solicited from participants. I also
-intend to run a ritual lab
+intend to run a ritual lab sometime on Saturday centered around Smallpox
+Eradication Day, and will make rationalist-themed games like <a
+href="http://rationalitycardinality.com" target="_blank">Rationality
+Cardinality</a> available.
 
 Interest has been expressed in New York City tourism activities as well. These
 are more likely to be scheduled for Sunday.
