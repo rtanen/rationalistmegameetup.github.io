@@ -153,7 +153,7 @@ technically possible for me to increase the amount up to $143.75; I promise not
 to do this. See <a
 href="https://developer.paypal.com/docs/classic/paypal-payments-standard/integration-guide/authcapture/"
 target="_blank">PayPal’s developer documentation</a> for more details about how
-this works.
+this works.)
 
 On October 30 (ten days after this announcement was posted publicly and the same
 day the Solstice Kickstarter ends), I’ll decide whether the megameetup will go
