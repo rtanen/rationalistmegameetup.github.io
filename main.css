@@ -19,8 +19,8 @@
 
 /* Big text for big windows */
 @media (min-width: 513px) {
-  html { font-size: 125%; }
-  small, footer { font-size: 0.8em; }
+  html { font-size: 125%; } /*20px, when the original size is 16px*/
+  small, footer { font-size: 0.8em; } /*reciprocal of 1.25*/
 }
 
 /*Less whitespace for tiny windows*/
@@ -40,7 +40,7 @@
    Link colors are unset to maintain footer blandness. */
  footer {
    opacity: 0.5;
-   font-size: 0.875em;
+   font-size: 0.875em; /*14px, when 1em is 16px*/
    text-align: center;
    margin-bottom: 2rem;
  }
