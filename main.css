@@ -26,8 +26,6 @@
 /*Less whitespace for tiny windows*/
 @media (max-width: 320px) {
   .container { padding: 0 0.5rem; }
-  h1, h2, h3, h4, h5, h6, p, ul { margin: 0.75rem 0; }
-  p { margin: 0.5rem 0; }
   ul { padding-left: 1em; }
 }
 
