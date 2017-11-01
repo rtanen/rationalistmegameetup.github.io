@@ -5,17 +5,31 @@
 
  body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 1.25em;
+  font-size: 100%;
   line-height: 1.5;
  }
 
  .container {
-   max-width: 40rem;
+   max-width: 32rem;
    padding-left: 1rem;
    padding-right: 1rem;
    margin-left: auto;
    margin-right: auto;
  }
+
+/* Big text for big windows */
+@media (min-width: 513px) {
+  html { font-size: 125%; }
+  small, footer { font-size: 0.8em; }
+}
+
+/*Less whitespace for tiny windows*/
+@media (max-width: 320px) {
+  .container { padding: 0 0.5rem; }
+  h1, h2, h3, h4, h5, h6, p, ul { margin: 0.75rem 0; }
+  p { margin: 0.5rem 0; }
+  ul { padding-left: 1em; }
+}
 
  h1, h2, h3, h4, h5, h6 {
    line-height: 1.2;
@@ -26,7 +40,7 @@
    Link colors are unset to maintain footer blandness. */
  footer {
    opacity: 0.5;
-   font-size: 0.8em;
+   font-size: 0.875em;
    text-align: center;
    margin-bottom: 2rem;
  }
@@ -43,7 +57,7 @@
  }
  form small {
    display: block;
-   font-size: 0.8em;
+   font-size: 0.875em;
  }
  form label textarea {
    display: block;
