@@ -1,1 +1,3 @@
 title: East Coast Rationalist Megameetup 2017
+plugins:
+  - jekyll-redirect-from

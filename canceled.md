@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Payment Canceled
+redirect_from: "/nosleepover/canceled"
 ---
 # Payment Canceled
 

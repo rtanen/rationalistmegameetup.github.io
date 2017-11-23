@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Registration Complete
+redirect_from: "/nosleepover/thanks"
 ---
 # Registration Complete
 
